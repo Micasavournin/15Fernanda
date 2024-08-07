@@ -1,6 +1,6 @@
 
 const Page5 = () => {
-    const pinterestUrl = "https://drive.google.com/drive/folders/15HCg5UCKgnP3whZ1d2Vn8pae5ckK2x58?usp=drive_link";
+    const pinterestUrl = "https://pin.it/xthsFZkM7";
     return (
         <div className="contenedor">
                 <img src="https://firebasestorage.googleapis.com/v0/b/tarjeta-invitacion-2f4f0.appspot.com/o/tarjeta%203%20(15)-05.jpg?alt=media&token=082011fa-b8c1-440f-86ea-527e128d9fd7" alt="" style={{ maxWidth: '100%', maxHeight: '100%' }} />
