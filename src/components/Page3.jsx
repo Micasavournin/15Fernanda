@@ -13,7 +13,7 @@ const Page3 = () => {
         >
         <button className="botonLlegar">
 
-          Cómo llegar?
+          Ubicación
         </button>
 
         </a>
